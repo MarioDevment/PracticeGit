@@ -1,2 +1,2 @@
 # PracticeGit
-Only por play
+Only for play
